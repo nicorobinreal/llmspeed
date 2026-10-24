@@ -1,1 +1,2 @@
 hardware,model,quant,backend,engine_version,gen_tps,prefill_tps,prompt_tokens,source_url,notes
+NVIDIA RTX 4050 Laptop 6GB,Llama 3.1 8B Instruct,Q4_K_M,CUDA,llama.cpp b11852,38.55,1864.38,512,https://gist.github.com/2u841r/88589d16292f318a3fd7c50becf2383c,"Max-Q laptop, driver 580.178.04, -ngl 99, 3 runs"
