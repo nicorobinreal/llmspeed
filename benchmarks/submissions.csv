@@ -1,1 +1,2 @@
 hardware,model,quant,backend,engine_version,gen_tps,prefill_tps,prompt_tokens,source_url,notes
+NVIDIA DGX Spark 128GB,Qwen 3.6/3.8 27B,Q4_K_M,CUDA,Flint llama.cpp b1b770d,10.7488,892.5169,512,https://gist.github.com/jlacroix82/4058d682026e3a863ca4d7e5299b7958/4422c37c1864125832f59a0c1c05bb4ddc0b1c82,"ggml-org/Qwen3.8-27B-GGUF@0669b98607d47046c7c2b3f801011d54a08cfccf, CPU cap 2000 MHz, GPU cap 2000 MHz, 5 repeats, GPU offload requested for all layers"
